@@ -32,6 +32,7 @@ Esse é o Drill para o município Curitiba e a maior causa dos acidentes:
 
 
 
+Com essa análise, é possível direcionarmos esforços e recursos para áreas críticas, identificar padrões que auxiliem na tomada de decisão e desenvolver estratégias mais eficazes para a prevenção e redução de acidentes de trânsito.
 
 
 
